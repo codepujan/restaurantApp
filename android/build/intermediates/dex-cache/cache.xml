@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-e1e72a4171ca940331c9b8045e19c14c36c81e4e.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-b9cd3f36ad39000365fc6329b5d658a17a96c0f8.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-7614f1cf233959409ed9b620ba5cf29eb4670b11.jar" />
+    </item>
+    <item
+        jar="/Users/pujanpaudel/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-b9e6c57e530ada6533c0fa323e7e43be18314581.jar" />
+    </item>
+    <item
+        jar="/Users/pujanpaudel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-0e05c9118ffb5d9a5c63c3e0b19ef664141dd3d1.jar" />
+    </item>
+    <item
+        jar="/Users/pujanpaudel/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-af208654ab1e5a71759f0d14422b05386de044cc.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/RestaurantSide/react-native-push-notification/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a7700c67f079477865a9435e7ff12b375df3c80">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-47c9e41972c074b72bba47cfa56e551a6157e33a.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-e75a29c89caaf8ac76d23f43504c453db89946c3.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-f70243c7976a50c3faaefc2c3b4ba19e342b9a61.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-620fd6bd74a08efc7351d9817cc9af3ebf90d4f0.jar" />
+    </item>
+    <item
+        jar="/Users/pujanpaudel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-757dceb7c28d6f808f8c5e794443463ea8b3b7f9.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-585a3d15e9274fa8d3866eca69c9f7086922da1f.jar" />
+    </item>
+    <item
+        jar="/Users/pujanpaudel/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-fdab58f9a7b0315ce477ba61f7f03c538b92119b.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-fd2cece385024674a7d9a16587965a03d519d564.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-4ba06e562a5fb4ddde3f6e126e7e793572f0e451.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-3b76a72662fa5fbbefb6e687d9937a5eb06c0e1b.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-72976c0b053a2a10760bb73c5e7500e7819be846.jar" />
+    </item>
+    <item
+        jar="/Users/pujanpaudel/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-9ae6726c1cda6428f3d1257a4e95f2739eedb718.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.35.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="db2c76df02d034e8d49bca2a69af788a787b46b2">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-0e7149c260c09a39435ee7d6fee92c5071314401.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.35.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cdc91752c90040ec7871c44963c63c751b1fa94b">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-0c17453a8c57aa55eb883a7de6694eb5b4a8b9e2.jar" />
+    </item>
+    <item
+        jar="/Users/pujanpaudel/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-cfce18b144703535f75e64c1a4cc718d0c1f3bbd.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-9a493d5d503bea87ea401807facab9a5c1f8ebcc.jar" />
+    </item>
+    <item
+        jar="/usr/local/Cellar/android-sdk/24.4.1_1/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-be29bbd49f7270cccaeecc1f5df54d90f886d9c7.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/me.leolin/ShortcutBadger/1.1.8/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="531c33d3697000a05e9493a2d0f09ba41fa114d3">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-461ddd2c80bdd4628785d5e5dbf85d53090cb049.jar" />
+    </item>
+    <item
+        jar="/Users/pujanpaudel/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-ec29db369eef979745dc5b6d2e71a2933060bc62.jar" />
+    </item>
+    <item
+        jar="/Users/pujanpaudel/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-fa470788cb7d474bee52307cf735f3f1849d9ebc.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-d9426d61bc5a538672261aca3cbb76dbcf3802fe.jar" />
+    </item>
+    <item
+        jar="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Development/ReactnativeZone/RestaurantSide/android/app/build/intermediates/pre-dexed/debug/classes-58fbc91cbba4dce3c284473ca184ac4a39d46dcd.jar" />
+    </item>
+
+</items>
